@@ -49,6 +49,13 @@ This is a web-based Movie Recommendation System built using **Streamlit** and **
     streamlit run app.py
     ```
 
+## 📥 Ratings Dataset (External)
+
+To populate the ratings collection, download and import the file using the command below:
+
+🔗 [Download movie_recommendation.ratings.json](https://drive.google.com/file/d/1-GPm6-Qr_xTo4pWd89j3s98AOiHSNo2d/view?usp=drive_link)
+
+
 ## 📌 Notes
 
 - Ensure your MongoDB database has collections: `users`, `movies`, and `ratings`.
